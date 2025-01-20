@@ -79,7 +79,7 @@ Focus on key points, scripture references, and personal reflections.
 Example:
 
 ```
-**Date:** January 18, 2025  
+**Date:** January 19, 2025  
 **Speaker:** Pastor John Doe  
 **Topic:** Faith Over Fear  
 **Key Scriptures:**  
