@@ -12,7 +12,7 @@ To create an organized and comprehensive Bible note-taking system, you’ll need
 - Access to digital resources or apps (e.g., Blue Letter Bible, Logos)
 - The following books:
   - **The Bible** (preferably multiple translations like KJV, NIV, ESV)
-  - **The Book of Mormon**
+  - Optionally **The Book of Mormon**
   - **The Apocrypha** (e.g., Book of Enoch, Jasher)
   - **Ante-Nicene Fathers, Nicene, and Post-Nicene Fathers** box sets
 
